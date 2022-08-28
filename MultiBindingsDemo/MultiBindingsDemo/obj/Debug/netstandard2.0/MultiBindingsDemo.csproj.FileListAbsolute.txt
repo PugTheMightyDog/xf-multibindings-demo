@@ -1,0 +1,16 @@
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\MultiBindingsDemo.csproj.AssemblyReference.cache
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\MultiBindingsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\TestPage.xaml.g.cs
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\MultiBindingsDemo.AssemblyInfoInputs.cache
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\MultiBindingsDemo.AssemblyInfo.cs
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\MultiBindingsDemo.csproj.CoreCompileInputs.cache
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\MultiBindingsDemo.dll
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\refint\MultiBindingsDemo.dll
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\MultiBindingsDemo.pdb
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\bin\Debug\netstandard2.0\MultiBindingsDemo.deps.json
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\bin\Debug\netstandard2.0\MultiBindingsDemo.dll
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\bin\Debug\netstandard2.0\MultiBindingsDemo.pdb
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TDias\source\repos\XF_Test\MultiBindingsDemo\MultiBindingsDemo\MultiBindingsDemo\obj\Debug\netstandard2.0\ref\MultiBindingsDemo.dll
